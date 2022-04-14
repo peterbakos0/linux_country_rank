@@ -1,0 +1,243 @@
+1. Cook Islands - 17.28%
+2. Greece - 10.08%
+3. Turkey - 9.26%
+4. Norway - 6.11%
+5. Paraguay - 5.21%
+6. Poland - 4.94%
+7. Uruguay - 4.86%
+8. India - 4.71%
+9. Sudan - 4.39%
+10. Hong Kong - 4.34%
+11. Turkmenistan - 4.33%
+12. Azerbaijan - 4.01%
+13. Central African Republic - 3.9%
+14. Albania - 3.87%
+15. Syrian Arab Republic - 3.78%
+16. Benin - 3.69%
+17. Madagascar - 3.68%
+18. Seychelles - 3.52%
+19. Gabon - 3.47%
+20. Nigeria - 3.4%
+21. Ireland - 3.39%
+22. Ethiopia - 3.22%
+23. Liechtenstein - 3.22%
+24. Nicaragua - 3.0%
+25. Burkina Faso - 2.99%
+26. Mayotte - 2.99%
+27. Bosnia And Herzegovina - 2.97%
+28. Asia - 2.91%
+29. Tajikistan - 2.88%
+30. Eritrea - 2.87%
+31. Swaziland - 2.85%
+32. Cuba - 2.82%
+33. Estonia - 2.81%
+34. Kenya - 2.77%
+35. Singapore - 2.77%
+36. Moldova - 2.75%
+37. Ukraine - 2.73%
+38. Finland - 2.7%
+39. Italy - 2.65%
+40. Macao - 2.62%
+41. France - 2.59%
+42. Venezuela - 2.58%
+43. Spain - 2.56%
+44. Europe - 2.53%
+45. Malaysia - 2.48%
+46. Mexico - 2.48%
+47. Germany - 2.47%
+48. Slovakia Slovak Republic - 2.44%
+49. Iceland - 2.4%
+50. Worldwide - 2.36%
+51. Afghanistan - 2.34%
+52. Bangladesh - 2.34%
+53. Taiwan - 2.31%
+54. Chile - 2.3%
+55. Myanmar - 2.25%
+56. Brazil - 2.22%
+57. Czech Republic - 2.22%
+58. Guinea - 2.21%
+59. Uganda - 2.21%
+60. Belarus - 2.19%
+61. Serbia - 2.13%
+62. Turks And Caicos Islands - 2.12%
+63. Lebanon - 2.1%
+64. South America - 2.07%
+65. Hungary - 2.04%
+66. Netherlands - 2.03%
+67. Nepal - 2.02%
+68. Indonesia - 2.01%
+69. Mauritius - 2.01%
+70. French Guiana - 1.93%
+71. Argentina - 1.92%
+72. Croatia - 1.92%
+73. Ecuador - 1.92%
+74. United States Of America - 1.87%
+75. Russian Federation - 1.87%
+76. North America - 1.86%
+77. Jordan - 1.83%
+78. Cameroon - 1.82%
+79. Malta - 1.8%
+80. Yemen - 1.8%
+81. New Zealand - 1.79%
+82. Western Sahara - 1.77%
+83. El Salvador - 1.76%
+84. Bulgaria - 1.75%
+85. Tanzania - 1.74%
+86. Reunion - 1.73%
+87. Sao Tome And Principe - 1.73%
+88. Bolivia - 1.72%
+89. Libya - 1.72%
+90. Cote D'ivoire - 1.71%
+91. Palestinian Territory - 1.71%
+92. Austria - 1.69%
+93. Iraq - 1.68%
+94. Somalia - 1.66%
+95. Canada - 1.65%
+96. Montenegro - 1.64%
+97. Tunisia - 1.62%
+98. Chad - 1.61%
+99. Israel - 1.58%
+100. Uzbekistan - 1.57%
+101. Colombia - 1.56%
+102. Pakistan - 1.56%
+103. Andorra - 1.55%
+104. Oceania - 1.54%
+105. Lithuania - 1.54%
+106. Guatemala - 1.53%
+107. Belize - 1.51%
+108. Australia - 1.5%
+109. Gambia - 1.5%
+110. Georgia - 1.49%
+111. Timor Leste - 1.49%
+112. Mauritania - 1.47%
+113. Barbados - 1.46%
+114. Romania - 1.46%
+115. Isle Of Man - 1.44%
+116. Luxembourg - 1.43%
+117. Macedonia - 1.43%
+118. Panama - 1.42%
+119. San Marino - 1.42%
+120. Bhutan - 1.41%
+121. Djibouti - 1.4%
+122. Greenland - 1.39%
+123. Brunei Darussalam - 1.37%
+124. Honduras - 1.37%
+125. Latvia - 1.37%
+126. Peru - 1.36%
+127. Sweden - 1.32%
+128. United Kingdom - 1.31%
+129. Aruba - 1.3%
+130. Costa Rica - 1.29%
+131. Zambia - 1.29%
+132. Kyrgyzstan - 1.28%
+133. Rwanda - 1.28%
+134. Denmark - 1.26%
+135. Dominican Republic - 1.26%
+136. Morocco - 1.26%
+137. Malawi - 1.22%
+138. Iran - 1.21%
+139. Algeria - 1.2%
+140. Haiti - 1.19%
+141. Ghana - 1.18%
+142. Niger - 1.18%
+143. Saudi Arabia - 1.17%
+144. Cape Verde - 1.15%
+145. South Africa - 1.15%
+146. Lao - 1.14%
+147. Viet Nam - 1.14%
+148. Martinique - 1.13%
+149. Senegal - 1.13%
+150. Togo - 1.13%
+151. Congo Democratic Republic Of The - 1.11%
+152. American Samoa - 1.08%
+153. Slovenia - 1.07%
+154. Kazakhstan - 1.06%
+155. Philippines - 1.06%
+156. Switzerland - 1.06%
+157. Congo Republic Of The - 1.04%
+158. Cambodia - 1.03%
+159. Cyprus - 1.03%
+160. Qatar - 1.01%
+161. Portugal - 0.99%
+162. Sri Lanka - 0.99%
+163. Zimbabwe - 0.99%
+164. Burundi - 0.96%
+165. Kuwait - 0.95%
+166. New Caledonia - 0.88%
+167. Africa - 0.87%
+168. Fiji - 0.86%
+169. Angola - 0.85%
+170. Solomon Islands - 0.85%
+171. Trinidad And Tobago - 0.85%
+172. Armenia - 0.83%
+173. Suriname - 0.83%
+174. Guadeloupe - 0.81%
+175. Mali - 0.81%
+176. Saint Lucia - 0.81%
+177. Thailand - 0.8%
+178. Maldives - 0.79%
+179. Guyana - 0.76%
+180. Sierra Leone - 0.76%
+181. Namibia - 0.75%
+182. Oman - 0.75%
+183. Lesotho - 0.74%
+184. Belgium - 0.73%
+185. Norfolk Island - 0.73%
+186. Botswana - 0.7%
+187. China - 0.69%
+188. Japan - 0.68%
+189. Jamaica - 0.64%
+190. United Arab Emirates - 0.62%
+191. Mozambique - 0.6%
+192. Papua New Guinea - 0.6%
+193. French Polynesia - 0.59%
+194. Monaco - 0.57%
+195. Mongolia - 0.54%
+196. Northern Mariana Islands - 0.52%
+197. Bahrain - 0.5%
+198. Gibraltar - 0.5%
+199. Palau - 0.48%
+200. Guam - 0.46%
+201. South Korea - 0.43%
+202. Kiribati - 0.42%
+203. Aland Islands - 0.41%
+204. Dominica - 0.41%
+205. Liberia - 0.38%
+206. Jersey - 0.36%
+207. Wallis And Futuna - 0.36%
+208. Comoros - 0.35%
+209. Antigua And Barbuda - 0.34%
+210. Grenada - 0.33%
+211. Saint Kitts And Nevis - 0.33%
+212. Saint Vincent And The Grenadines - 0.32%
+213. Bahamas - 0.29%
+214. Guernsey - 0.29%
+215. British Virgin Islands - 0.28%
+216. Montserrat - 0.27%
+217. Saint Pierre And Miquelon - 0.27%
+218. Virgin Islands US - 0.27%
+219. Anguilla - 0.26%
+220. Tonga - 0.26%
+221. Egypt - 0.24%
+222. Equatorial Guinea - 0.23%
+223. Micronesia - 0.2%
+224. Faroe Islands - 0.19%
+225. Cayman Islands - 0.14%
+226. Vanuatu - 0.12%
+227. Guinea Bissau - 0.11%
+228. Falkland Islands Malvinas - 0.09%
+229. Samoa - 0.09%
+230. Holy See Vatican City State - 0.08%
+231. North Korea - 0.06%
+232. Bermuda - 0.03%
+233. Antarctica - 0%
+234. Christmas Island - 0%
+235. Marshall Islands - 0%
+236. Nauru - 0%
+237. Netherlands Antilles - 0%
+238. Niue - 0%
+239. Pitcairn Islands - 0%
+240. Puerto Rico - 0%
+241. Saint Helena - 0%
+242. Tokelau - 0%
+243. Tuvalu - 0%
